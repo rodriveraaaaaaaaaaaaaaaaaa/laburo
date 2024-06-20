@@ -6,9 +6,11 @@
     <title>Document</title>
 </head>
 <body>
-    holaaaa
-    i7tkk
-    iukyu
-    gggggggggggggggggggggggg
+    
+<?php
+
+echo "hola mundo";
+?>
+
 </body>
 </html>
